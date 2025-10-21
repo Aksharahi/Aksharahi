@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-I am a passionate Computer Science student with strong foundations in Data Structures, Operating System, Computer Networks and Software Engineering.<br>I enjoy solving real-world problems through impactful projects like placement systems, assistive communication tools, and smart applications.<br>With hands-on experience in web development, DevOps, and cloud platforms, I strive to build scalable and user-friendly solutions.<br>As an active leader in my college, I bring adaptability, resilience, and effective communication to every project I undertake.
+I am a passionate Computer Science student with strong foundations in Data Structures, Operating System, Computer Networks, AI & ML and Software Engineering.<br>I enjoy solving real-world problems through impactful projects like placement systems, assistive communication tools, and smart applications.<br>With hands-on experience in web development, DevOps, and cloud platforms, I strive to build scalable and user-friendly solutions.<br>As an active leader in my college, I bring adaptability, resilience, and effective communication to every project I undertake.
 
 
 ## 🌐 Socials:
